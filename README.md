@@ -1,4 +1,5 @@
 # assignment2-CW
+<<<<<<< HEAD
 
 ### Author: Charlie Wilmot
 
@@ -15,3 +16,5 @@ The analysis script 'penguins_analysis.R' performs some basic functions:
 1. Clone this repository
 2. Open R or RStudio in the clones folder
 3. Run the script ("penguin_analysis.R")
+=======
+>>>>>>> 7a316a83db590c8ce23d5dfc91d780e1b77bcbef
